@@ -4,8 +4,8 @@
 <h2> thanks for following us </h2>
 <!DOCTYPE html>
 <html>
-  <body bgcolor="aqua">
-    <h1>Hello guys this is my first cicd </h1>
+  <body bgcolor="yellow">
+    <h1>Get shocked </h1>
   </body>
 </html>
 
