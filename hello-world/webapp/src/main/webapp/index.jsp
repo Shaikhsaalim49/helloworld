@@ -5,7 +5,7 @@
 <html>
   <body bgcolor="yellow">
     <h1>Get shocked </h1>
-    <marquee>bye bye</marquee>
+    <marquee>first commit</marquee>
   </body>
 </html>
 
