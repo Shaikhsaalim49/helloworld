@@ -5,7 +5,7 @@
 <html>
   <body bgcolor="yellow">
     <h1>Get shocked </h1>
-    <marquee>second commit</marquee>
+    <marquee>revert it</marquee>
   </body>
 </html>
 
